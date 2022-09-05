@@ -209,6 +209,11 @@ a:hover {
   color: #f3525a;
 }
 
+.contact-link {
+  color: #f3525a !important;
+  display: block;
+}
+
 button, input[type="submit"] {
   cursor: pointer;
 }
@@ -4195,6 +4200,12 @@ input[type="checkbox"] {
   height: 100%;
   width: 100%;
   opacity: 0.98;
+}
+
+.footer-image {
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .coustom-row-in-footer {
